@@ -1,0 +1,6 @@
+files in .gitignore:::
+bin/*
+dist/*
+reports/*
+docs/*
+
